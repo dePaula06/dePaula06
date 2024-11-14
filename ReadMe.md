@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭Studying 2/4 semester of systems development
+🔭Studying 4/4 semester of systems development
 
 
 ## 🌐 Socials:
