@@ -28,143 +28,56 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
-<h3 align="left">
-  🦄 Desenvolvimento Frontend
-</h3>
-<ul style="list-style: none" align="left">
-  <li>
-    <p style="margin-top: 50px;">
-      <img height="32" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png"/>
-        HTML5
-    </p>
-  </li>
-  <li>
-    <p style="margin-top: 50px;">
-      <img height="32" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png"/>
-      CSS
-    </p>
-  </li>
-  <li>
-    <p style="margin-top: 50px;">
-      <img height="32" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png"/>
-      JavaScript
-    </p>
-  </li>
-  <li>
-    <p style="margin-top: 50px;">
-      <img height="32" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bootstrap.png"/>
-      Bootstrap
-    </p>
-  </li>
-  <li>
-    <p style="margin-top: 50px;">
-      <img height="32" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png"/>
-      React
-    </p>
-  </li>
-  <li>
-    <p style="margin-top: 50px;">
-      <img height="32" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vite.png"/>
-      Vite
-    </p>
-  </li>
-  <li>
-    <p style="margin-top: 50px;">
-      <img height="32" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/figma.png"/>
-      Figma
-    </p>
-  </li>
-  <li>
-    <p style="margin-top: 50px;">
-      <img height="32" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/material_ui.png"/>
-      Material UI
-    </p>
-  </li>
-</ul>
+<h3 align="left">🦄 Desenvolvimento Frontend</h3>
+<div align="left">
+  <h4><img height="24" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png"/> HTML5</h4>
+  <h4><img height="24" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png"/> CSS</h4>
+  <h4><img height="24" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png"/> JavaScript</h4>
+  <h4><img height="24" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bootstrap.png"/> Bootstrap</h4>
+  <h4><img height="24" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png"/> React</h4>
+  <h4><img height="24" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vite.png"/> Vite</h4>
+  <h4><img height="24" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/figma.png"/> Figma</h4>
+  <h4><img height="24" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/material_ui.png"/> Material UI</h4>
+</div>
+<hr>
 
-<br>
+<h3 align="left">🖥️ Backend</h3>
+<div align="left">
+  <h4><img height="24" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png"/> Node.JS</h4>
+</div>
 
-<h3 align="left">
-  🖥️ Backend
-</h3>
-<ul style="list-style: none" align="left">
-  <li>
-    <p style="margin-top: 50px;">
-      <img height="32" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png"/>
-      Node.JS
-  </li>
-</ul>
+<hr>
 
-<br>
+<h3>📊 Database</h3>
+<div align="left">
+  <h4><img height="24" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png"/> MySQL</h4>
+  <h4><img height="24" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png"/> MongoDB</h4>
+</div>
 
-<h3>
-  📊 Database
-</h3>
-<ul style="list-style: none" align="left">
-  <li>
-    <p style="margin-top: 50px;">
-      <img height="32" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png"/>
-      MySQL
-  </li>
-  <li>
-    <p style="margin-top: 50px;">
-      <img height="32" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png"/>
-      MongoDB
-  </li>
-</ul>
+<hr>
 
-<br>
+<h3>🗂️ Controle de versão</h3>
+<div align="left">
+  <h4><img height="24" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png"/> Git</h4>
+  <h4><img height="24" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png"/> GitHub</h4>
+  <h4><img height="24" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/gitlab.png"/> GitLab</h4>
+</div>
 
-<h3>
-  🗂️ Controle de versão
-</h3>
-<ul style="list-style: none" align="left">
-  <li>
-    <p style="margin-top: 50px;">
-      <img height="32" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png"/>
-      Git
-  </li>
-  <li>
-    <p style="margin-top: 50px;">
-      <img height="32" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png"/>
-      GitHub
-  </li>
-   <li>
-    <p style="margin-top: 50px;">
-      <img height="32" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/gitlab.png"/>
-      GitLab
-  </li>
-</ul>
+<hr>
 
-<br>
+<h3>🐳 DevOps</h3>
+<div align="left">
+  <h4><img height="24" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png"/> Docker</h4>
+</div>
 
-<h3>
-  🐳 DevOps
-</h3>
-<ul style="list-style: none" align="left">
-  <li>
-    <p style="margin-top: 50px;">
-      <img height="32" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png"/>
-      Docker
-  </li>
-</ul>
+<hr>
 
-<br>
+<h3>⚒️ Outras Ferramentas</h3>
+<div align="left">
+  <h4><img height="24" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png"/> Visual Studio Code</h4>
+  <h4><img height="24" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postman.png"/> Postman</h4>
+</div>
 
-<h3>
-  ⚒️ Outras Ferramentas
-</h3>
-<ul style="list-style: none" align="left">
-  <li>
-    <p style="margin-top: 50px;">
-      <img height="32" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png"/>
-      Visual Studio Code
-  </li>
-  <li>
-    <p style="margin-top: 50px;">
-      <img height="32" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postman.png"/>
-      Postman
-  </li>
 
   <br>
 
@@ -192,10 +105,23 @@
 
 ## 📧 Conecte-se comigo
 
-<!--icons and links-->
-<div align="center;" gap="50px;">
-  
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/PedrodePaula" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/p.depaula06" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:p.depaula06.sp@gmail.com.com" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://gitlab.com/pedropoliveira123" target="_blank">
+    <img src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" alt="GitLab" width="40" height="40"/>
+  </a>
+</p>
 
 <br>
 <!-- divisor animado com gradiente -->
