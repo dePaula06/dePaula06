@@ -106,7 +106,7 @@
 ## 📧 Conecte-se comigo
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/PedrodePaula" target="_blank">
+  <a href="https://www.linkedin.com/in/dePaula06" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
