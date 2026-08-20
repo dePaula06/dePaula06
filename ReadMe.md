@@ -16,7 +16,7 @@
  📂 Introdução 
 </h3>
 <p align="left">
-    Olá! Me chamo Pedro, tenho 18 anos e sou Técnico em Desenvolvimento de Sistemas pelo SENAI (2023–2024), onde fui reconhecido como o melhor aluno da turma. Atualmente, curso Bacharelado em Sistemas de Informação   no Uni-FACEF.
+    Olá! Me chamo Pedro, tenho 20 anos e sou Técnico em Desenvolvimento de Sistemas pelo SENAI (2023–2024), onde fui reconhecido como o melhor aluno da turma. Atualmente, curso Bacharelado em Sistemas de Informação   no Uni-FACEF.
 
   Tenho interesse crescente por desenvolvimento frontend, com foco em UX/UI. Gosto de estruturar interfaces intuitivas e responsivas, criando landing pages e componentes reutilizáveis que aliam design e  performance. Busco constantemente aprimorar minhas habilidades em tecnologias como HTML, CSS, JavaScript e React.
 </p>
